@@ -1,4 +1,4 @@
-Task Eight - Working with VSCodium, HTML, and Python Scripts
+Task 9 - Working with VSCodium, HTML, and Python Scripts
 Overview
 In this task, we installed VSCodium on Kali Linux to edit HTML and Python files from Task Three. The goal is to improve the HTML file using Emmet in VSCodium, add a shebang (#!/usr/bin/env python3) to the Python script, and execute the Python script without using the python command.
 
